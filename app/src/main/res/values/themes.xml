@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuitmediaInternTest" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+    </style>
+
+    <style name="Theme.SuitmediaInternTest" parent="Base.Theme.SuitmediaInternTest" />
+</resources>
